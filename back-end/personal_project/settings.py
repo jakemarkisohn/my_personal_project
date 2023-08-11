@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "user_app",
+    "recipe_book_app",
+    "recipe_app",
     "rest_framework",
     "rest_framework.authtoken",
 ]
